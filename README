@@ -1,1 +1,6 @@
-TODO: Provide description for the dataset -- basic details about the study, possibly pointing to pre-registration (if public or embargoed)
+This dataset contains raw data from an fMRI study investigating whether the human brain represents affective space using grid-like codes. 
+
+During scanning, participants viewed emotion-laden stimuli presented in two modalities: morphs of facial expressions and sequences of phrases. Each trial consisted of a trajectory between two points in a two-dimensional affective space defined by valence and arousal. Participants judged whether the valence or arousal of the presented stimuli increased, decreased, or remained the same. 
+
+Behavioral data: https://osf.io/5fkuy/
+Analysis code: https://github.com/ecco-laboratory/EmotionConceptNavigation
